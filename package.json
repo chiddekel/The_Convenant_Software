@@ -1,0 +1,22 @@
+{
+  "name": "the_convenant_music_player",
+  "version": "3.1.1",
+  "description": "The convenant software - convenant-music|player. Using html, js, css and power of node with semantic UI design based on Microsoft Typescript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chiddekel/The_Convenant_Software.git"
+  },
+  "keywords": [
+    "music|player"
+  ],
+  "author": "Adam Łangowicz - adam.langowicz@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chiddekel/The_Convenant_Software/issues"
+  },
+  "homepage": "https://github.com/chiddekel/The_Convenant_Software#readme"
+}
