@@ -21,6 +21,6 @@
   "homepage": "https://github.com/chiddekel/The_Convenant_Software#readme",
   "dependencies": {},
   "devDependencies": {
-    "vue": "^2.5.17"
+    "vue": "^2.6.10"
   }
 }
